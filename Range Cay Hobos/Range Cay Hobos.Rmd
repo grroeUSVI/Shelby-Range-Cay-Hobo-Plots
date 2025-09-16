@@ -16,7 +16,7 @@ library(patchwork)
 
 #This is for plot A
 
-#each of the hobo logger files are named for the locaiton on the pole that hobo logger was placed
+#each of the hobo logger files are named for the location on the pole that hobo logger was placed
 
 fivetoseven<-read_excel("RCA/RC-A 5-7cm 2025-03-11 16_34_59 AST (Data AST).xlsx")#2/13-2/26
 twentytotwentytwo<-read_excel("RCA/RC-A 20-22 cm 2025-03-13 14_01_48 AST (Data AST).xlsx")#2/13-2/14
